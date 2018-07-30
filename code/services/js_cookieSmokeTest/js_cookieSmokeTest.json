@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,js_cookie",
+    "logging_enabled": "false",
+    "name": "js_cookieSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "js_cookieSmokeTest.js"
+}
